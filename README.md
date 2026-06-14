@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Nikhil Rana 👋
 
-<!--
-**nr458372-cpu/nr458372-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BA Student | Chaudhary Charan Singh University  
+📍 Noida Uttar Pradesh  
+🚀 Open to part time & entry level opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Microsoft Excel & Data Entry
+- Video & Photo Editing
+- MS Office
+- Communication & Teamwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently
+- 🌱 Learning Digital Marketing & Excel
+- 💼 Looking for internships & part time roles in Noida
+- 📈 Building my professional portfolio
+
+---
+
+## 📫 Connect with me
+ https://www.linkedin.com/in/nikhil-rana-628045416?utm_source=share_via&utm_content=profile&utm_medium=member_android
